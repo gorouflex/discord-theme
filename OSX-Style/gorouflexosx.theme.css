@@ -9,7 +9,7 @@
   --background-accent-hue: 225;
   --background-accent-saturation: 100%;
   --background-accent-brightness: 99%;
-  --background-image: initial; /* url(https://site.com/foobar.png) | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image: initial;
   --background-image-position: center;
   --background-image-size: cover;
   --background-image-blur: 0px;
@@ -33,7 +33,7 @@
   --chat-text-brightness: 0;
   --home-icon: initial;
   --favorites-icon: initial;
-  --dock-blur: 0; /* Blur intensity of the dock. */
+  --dock-blur: 0;
   --dock-border-radius: 0;
   --sidebar-width: 301px;
   --members-width: 204px;
@@ -48,7 +48,3 @@
   --custom-font-code: "";
   --enable-blur: 1;
 }
-
-/* Any custom CSS below here */
-
-
