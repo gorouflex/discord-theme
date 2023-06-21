@@ -23,7 +23,7 @@
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 21;
   --dplus-accent-color-saturation: 60%;
-  --dplus-accent-color-lightness: 31%;
+  --dplus-accent-color-lightness: 30%;
 
 /* Foreground color: For things like text and icons. */
   --dplus-foreground-color-hue-base: 21;
@@ -35,7 +35,7 @@
   --dplus-background-color-hue: 21;
   --dplus-background-color-saturation-amount: 92;
   --dplus-background-color-lightness-amount: 0.8;
-  --dplus-background-color-alpha: 0.7;
+  --dplus-background-color-alpha: 0.8;
 }
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
