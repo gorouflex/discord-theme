@@ -21,9 +21,9 @@
   --dplus-backdrop: url(https://i.imgur.com/LujRefl.jpg);
 
 /* Accent color, used to decorate the UI with colors. */
-  --dplus-accent-color-hue: 320;
-  --dplus-accent-color-saturation: 60%;
-  --dplus-accent-color-lightness: 31%;
+  --dplus-accent-color-hue: 200;
+  --dplus-accent-color-saturation: 40%;
+  --dplus-accent-color-lightness: 25%;
 
 /* Foreground color: For things like text and icons. */
   --dplus-foreground-color-hue-base: 210;
@@ -67,22 +67,22 @@
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
    UI radius must be in pixels, otherwise things break. */
-  --dplus-radius-ui: 10px;
-  --dplus-radius-avatar: 20%;
-  --dplus-radius-server: 20%;
+  --dplus-radius-ui: 5px;
+  --dplus-radius-avatar: 10%;
+  --dplus-radius-server: 10%;
 
 /* This decides how much breathing room there should be between things like buttons and content. */
-  --dplus-spacing-ui: 10px;
+  --dplus-spacing-ui: 5px;
 
 /* This sets how much space there should be between the app contents and the edges of the window. It also affects the distance between major UI elements, such as the server list to the channel list and channel list to the chat. */
-   --dplus-spacing-app: 10px;
+   --dplus-spacing-app: 5px;
 
 /* Size of user and server icons */
---dplus-icon-avatar-chat: 64px;
+--dplus-icon-avatar-chat: 32px;
 --dplus-icon-avatar-list: 32px;
---dplus-icon-avatar-profile: 80px;
+--dplus-icon-avatar-profile: 40px;
 
---dplus-icon-server-sidebar: 48px;
+--dplus-icon-server-sidebar: 36px;
 --dplus-icon-server-list: 32px;
 
 /* The Home icon on the top left */
