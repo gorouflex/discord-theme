@@ -29,12 +29,12 @@
   --dplus-foreground-color-hue-base: 21;
   --dplus-foreground-color-hue-links: 92;
   --dplus-foreground-color-saturation-amount: 60;
-  --dplus-foreground-color-lightness-amount: 1;
+  --dplus-foreground-color-lightness-amount: 5;
 
 /* Background color: Covers the backdrop so the app is easier to read. */
   --dplus-background-color-hue: 21;
   --dplus-background-color-saturation-amount: 92;
-  --dplus-background-color-lightness-amount: 1;
+  --dplus-background-color-lightness-amount: 5;
   --dplus-background-color-alpha: 1;
 }
 
