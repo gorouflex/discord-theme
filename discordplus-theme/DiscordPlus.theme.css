@@ -21,19 +21,19 @@
   --dplus-backdrop: url(https://i.imgur.com/LujRefl.jpg);
 
 /* Accent color, used to decorate the UI with colors. */
-  --dplus-accent-color-hue: 320;
+  --dplus-accent-color-hue: 247;
   --dplus-accent-color-saturation: 60%;
   --dplus-accent-color-lightness: 31%;
 
 /* Foreground color: For things like text and icons. */
-  --dplus-foreground-color-hue-base: 210;
+  --dplus-foreground-color-hue-base: 247;
   --dplus-foreground-color-hue-links: 197;
-  --dplus-foreground-color-saturation-amount: 1;
+  --dplus-foreground-color-saturation-amount: 21;
   --dplus-foreground-color-lightness-amount: 1;
 
 /* Background color: Covers the backdrop so the app is easier to read. */
-  --dplus-background-color-hue: 320;
-  --dplus-background-color-saturation-amount: 1;
+  --dplus-background-color-hue: 247;
+  --dplus-background-color-saturation-amount: 21;
   --dplus-background-color-lightness-amount: 1;
   --dplus-background-color-alpha: 0.8;
 }
