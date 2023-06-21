@@ -21,7 +21,7 @@
   --dplus-backdrop: url(https://i.imgur.com/LujRefl.jpg);
 
 /* Accent color, used to decorate the UI with colors. */
-  --dplus-accent-color-hue: 320;
+  --dplus-accent-color-hue: 21;
   --dplus-accent-color-saturation: 60%;
   --dplus-accent-color-lightness: 31%;
 
@@ -29,13 +29,13 @@
   --dplus-foreground-color-hue-base: 21;
   --dplus-foreground-color-hue-links: 92;
   --dplus-foreground-color-saturation-amount: 60;
-  --dplus-foreground-color-lightness-amount: 0.8;
+  --dplus-foreground-color-lightness-amount: 0.6;
 
 /* Background color: Covers the backdrop so the app is easier to read. */
   --dplus-background-color-hue: 21;
   --dplus-background-color-saturation-amount: 92;
-  --dplus-background-color-lightness-amount: 0.8;
-  --dplus-background-color-alpha: 0.8;
+  --dplus-background-color-lightness-amount: 0.6;
+  --dplus-background-color-alpha: 0.6;
 }
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
@@ -86,6 +86,6 @@ Set avatar/server radius to 50% to make them circular.
 --dplus-icon-server-list: 32px;
 
 /* The Home icon on the top left */
---dplus-icon-home-dark: url(https://plusinsta.github.io/discord-plus/assets/discord/home_dark.svg);
+--dplus-icon-home-dark: url(https://plusinsta.github.io/discord-plus/assets/discord/home_dark_classic.svg);
 --dplus-icon-home-light: url(https://plusinsta.github.io/discord-plus/assets/discord/home_light.svg);
 }
